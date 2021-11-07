@@ -4,12 +4,12 @@
 
 <h1 align="center"> Hi! I'm Giang <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Giang, a aspiring Frontend Developer 💻.
+I'm Giang, an aspiring Frontend Developer 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: 🌱 I can speak 3 languages: Japanese 🇯🇵, English and Vietnamese 🇻🇳.
-- 🤔 I’m looking for an internship and junior frontend opportunities.
+- 🌱 I can speak: Japanese 🇯🇵, English and Vietnamese 🇻🇳.
+- 🤔 I’m looking for internship and junior frontend opportunities.
 - 😄 Pronouns: She/Her.
 
 🤝 &nbsp; Connect with Me
