@@ -9,7 +9,7 @@ I'm an aspiring Frontend Developer who is eager to learn!💻.
 <!-- TODO: Add last video link -->
 
 - 🌱 I can speak: Japanese 🇯🇵, English and Vietnamese 🇻🇳.
-- 🤔 I’m looking for internship and junior frontend opportunities.
+- 🤔 I’m looking for frontend opportunities.
 - 😄 Pronouns: She/Her.
 
 🤝 &nbsp; Connect with Me
